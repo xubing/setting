@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/works/pfpoker/source/client36/src/ui'
+let g:netrw_dirhist_2='/Bing/Bingwa/docs/fufmapp/shells'
