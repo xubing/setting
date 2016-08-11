@@ -3,7 +3,7 @@ export ZSH=$HOME/.oh-my-zsh
 export TERM=xterm-256color
 
 
-export CLICOLOR=1
+#export CLICOLOR=1
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
