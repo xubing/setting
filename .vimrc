@@ -2,7 +2,7 @@ syntax enable
 "syntax on
 set background=light
 colorscheme solarized
-"let g:solarized_termcolors=256
+let g:solarized_termcolors=256
 set number
 set encoding=utf-8
 set hlsearch 
