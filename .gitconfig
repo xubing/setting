@@ -1,0 +1,8 @@
+[push]
+	default = matching
+[user]
+	email = zhxubing@gmail.com
+	name = Xubing
+
+[core]
+ excludesfile = /Users/Bing/.gitignore_global
